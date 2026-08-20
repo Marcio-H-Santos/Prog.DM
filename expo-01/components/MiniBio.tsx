@@ -7,7 +7,7 @@ export function MiniBio() {
     <View style={styles.card}>
       <Profile />
       <Text style={styles.phrase}>
-        "Sou estudande da UNICAP. Estou no quarto período, cursando Sistemas para Internet."
+        "Sou estudante da UNICAP. Estou no quarto período, cursando Sistemas para Internet."
       </Text>
     </View>
   );

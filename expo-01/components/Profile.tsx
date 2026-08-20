@@ -5,8 +5,7 @@ export function Profile() {
   return (
     <View style={styles.container}>
       <Image
-        // Coloque a URL da sua foto real ou mantenha essa de exemplo
-        source={{ uri: 'https://github.com/github.png' }}
+        source={{ uri: 'https://github.com/Marcio-H-Santos.png' }}
         style={styles.avatar}
       />
       <Text style={styles.name}>Márcio Henrique dos Santos</Text>
